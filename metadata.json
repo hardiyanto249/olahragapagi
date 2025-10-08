@@ -1,0 +1,5 @@
+{
+  "name": "Peserta Olah Raga Pagi Jakarta",
+  "description": "A web application to manage and recapitulate participants for the 'Olah Raga Pagi Jakarta' event. It allows for real-time data updates, configurable categories, and graphical monitoring of participant trends.",
+  "requestFramePermissions": []
+}
